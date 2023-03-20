@@ -30,7 +30,7 @@ twitter_username: none
 github_username:  Fuedyolo
 
 # Build settings
-theme: minima
+theme: merlot
 plugins:
   - jekyll-feed
 

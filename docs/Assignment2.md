@@ -32,3 +32,7 @@ From the map above, we can easily find out the neighborhood called 'Richmond' ha
 After taking a look at the overall crime rate of San Francisco, we want to further have a check the particular crime amount that happens in these safe neighborhoods that we mentioned above (Richmond, Par, Taraval), especially Richmond. We would investigate for the reason why the overall criminal act is low. For these ten different crime type, how frequency of Richmond ranked the lowest crime rate.
 
 From the top 10 crimes categories above, it is obviou to conclude that Richmond has the lowest crime rate for 'OTHER OFFENSES',  'NON-CRIMINAL', 'ASSAULT','DRUG/NARCOTIC' and 'WARRANTS', which is 5 out of 10. Regarding the rest of 5 which Richmond is not ranked the lowest crimes, Richmond's ranking is also remain competitive. It ranked around 2rd or 3th place among these 10 neighborhoods. So after access the crime particularly, Richmond is the most safe neighborhood by investigation. We believe that the type of crime that everyone, or every new immigrant pays attention to is not the same. For example, if this person does not buy a car, he or she will not care about the low-risk neighborhood of vehicle theft rate. Or if some immigrants are non-white, they will pay more attention to which neighborhood is less prone to crimes related to racial discrimination, and they will be more likely to choose housing in these neighborhood.
+
+
+
+{% include map.html %}

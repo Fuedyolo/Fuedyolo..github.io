@@ -17,14 +17,14 @@ We will be working with dataset obtained through "dataSF.org" called "Police Dep
 
 First of all, we would like to first analyze the trend of the overall crime rate in the 14 years from 2003 to 2017, whether it shows an increasing trend or vice versa, and which kind of crime has the highest crime rate.
 
-#![Book logo](/docs/assets/timeseries.png)
+![Book logo](/docs/assets/timeseries.png)
 
 From the plot above, we can have a overall understanding of the crime rate of San Francisco from 2003 to 2017. We can see it fluctuate during the period, the lowest amount reached to 9500 crimes in 2011, the highest amount reached 13500 in 2015. But we could see a tendency from 2014 to 2017, it was slightly going down. So as a professional immigrant consualtanting team, we stay positive to pick San Francisco as a potential immigrant region.
 
 
 Second, we want to see which neighborhood have the lowest crime rates for different kinds of crime. We have taken a look for the top 10 crimes. If there is a neighborhood where many types of crime rates are the lowest, for example, the neighborhood ranked lowest crime rate for 5 times (5 out of 10 type crimes), then we consider this neighborhood to be the safest neighborhood. Furthermore, for this neighborhood, we also want to look at the distribution of other crimes. See if the crimes of the other kinds are all below average or vice versa.
 
-![Book logo](/docs/assets/mapplot.png)
+{% include map.html %}
 
 From the map above, we can easily find out the neighborhood called 'Richmond' has the lowest total crime count is 98,399,000. The second lowest area is neighborhood 'Park'with 101,978,000. The second place is neighborhood 'Taraval' with 131,197,000. From the data observed, we can easily tell the north-east side of San Francisco has lower crime rate, it also means it's much safer compared to the rest neighborhood for the immigrant to choose their future residence. It's provide a fundamental and instructional suggestion for the immigrants.
 
@@ -35,4 +35,3 @@ From the top 10 crimes categories above, it is obviou to conclude that Richmond 
 
 
 
-{% include map.html %}

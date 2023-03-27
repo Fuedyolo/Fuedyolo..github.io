@@ -32,11 +32,11 @@ From the map above, we can easily find out the neighborhood called 'Richmond' ha
 {% include sf_crime_scatter_regression_final.html %}
 
 
-This visualization aims to inform immigrants about the crime patterns in San Francisco. The scatter plot shows the total number of crimes recorded at different hours of the day, while the linear regression line illustrates the trend of crime rates over time.
+This visualization aims to inform immigrants about the crime patterns in San Francisco. The scatter plot shows the total number of crimes recorded throughout the years from 2003-2017, while the linear regression line illustrates the trend of crime rates over time.
 
-The plot displays the 10 most common crime categories in San Francisco, such as Larceny/Theft and Non-Criminal incidents, which are color-coded for easy identification. By hovering over the points on the plot, immigrants can see the specific number of crimes recorded for a particular hour, crime category, and the R-squared value of the corresponding linear regression line.
+The plot displays the 10 most common crime categories in San Francisco, such as Larceny/Theft and Vehicle-Theft incidents, which are color-coded for easy identification. By hovering over the points on the plot, immigrants can see the specific number of crimes recorded for a particular year, crime category, and the R-squared value of the corresponding linear regression line.
 
-The R-squared value shows the strength of the correlation between the hour of the day and the total number of crimes recorded. This information can help immigrants make informed decisions about when and where to visit or live in San Francisco. For example, they can choose to avoid specific areas during certain times of the day, or take additional precautions during high-risk hours.
+ The slope of each regression line represents the change in the total number of crimes per year for that category. This information can help immigrants make informed decisions about when to visit or live in San Francisco. Ie. they can see that Vehicle-Theft has gone down over the years, but regular theft has gone up, so it might be safer to have a car now than 15 years ago.
 
 Overall, this visualization provides immigrants with valuable insights into the crime patterns in San Francisco, allowing them to make informed decisions to ensure their safety while living or traveling in the city.
 

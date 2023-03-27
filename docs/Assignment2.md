@@ -36,7 +36,7 @@ This visualization aims to inform immigrants about the crime patterns in San Fra
 
 The plot displays the 10 most common crime categories in San Francisco, such as Larceny/Theft and Vehicle-Theft incidents, which are color-coded for easy identification. By hovering over the points on the plot, immigrants can see the specific number of crimes recorded for a particular year and the crime category.
 
- The slope of each regression line represents the change in the total number of crimes per year for that category. This information can help immigrants make informed decisions about when to visit or live in San Francisco. Ie. they can see that Vehicle-Theft has gone down over the years, but regular theft has gone up, so it might be safer to have a car now than 15 years ago.
+ The slope of each regression line represents the change in the total number of crimes per year for that category. This information can help immigrants make informed decisions about when to visit or live in San Francisco. Ie. they can see that Vehicle-Theft has gone down over the years, but regular theft has gone up, so it might be safer to have a car now than 15 years ago, but theft (presumably of smaller items) is on the rise.
 
 Overall, this visualization provides immigrants with valuable insights into the crime patterns in San Francisco, allowing them to make informed decisions to ensure their safety while living or traveling in the city.
 

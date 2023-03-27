@@ -34,7 +34,7 @@ From the map above, we can easily find out the neighborhood called 'Richmond' ha
 
 This visualization aims to inform immigrants about the crime patterns in San Francisco. The scatter plot shows the total number of crimes recorded throughout the years from 2003-2017, while the linear regression line illustrates the trend of crime rates over time.
 
-The plot displays the 10 most common crime categories in San Francisco, such as Larceny/Theft and Vehicle-Theft incidents, which are color-coded for easy identification. By hovering over the points on the plot, immigrants can see the specific number of crimes recorded for a particular year, crime category, and the R-squared value of the corresponding linear regression line.
+The plot displays the 10 most common crime categories in San Francisco, such as Larceny/Theft and Vehicle-Theft incidents, which are color-coded for easy identification. By hovering over the points on the plot, immigrants can see the specific number of crimes recorded for a particular year and the crime category.
 
  The slope of each regression line represents the change in the total number of crimes per year for that category. This information can help immigrants make informed decisions about when to visit or live in San Francisco. Ie. they can see that Vehicle-Theft has gone down over the years, but regular theft has gone up, so it might be safer to have a car now than 15 years ago.
 

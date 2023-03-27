@@ -24,7 +24,7 @@ From the plot above, we can have a overall understanding of the crime rate of Sa
 
 Second, we want to see which neighborhood have the lowest crime rates for different kinds of crime. We have taken a look for the top 10 crimes. If there is a neighborhood where many types of crime rates are the lowest, for example, the neighborhood ranked lowest crime rate for 5 times (5 out of 10 type crimes), then we consider this neighborhood to be the safest neighborhood. Furthermore, for this neighborhood, we also want to look at the distribution of other crimes. See if the crimes of the other kinds are all below average or vice versa.
 
-{% include map.html %}
+{% include mapplot.html %}
 
 From the map above, we can easily find out the neighborhood called 'Richmond' has the lowest total crime count is 98,399,000. The second lowest area is neighborhood 'Park'with 101,978,000. The second place is neighborhood 'Taraval' with 131,197,000. From the data observed, we can easily tell the north-east side of San Francisco has lower crime rate, it also means it's much safer compared to the rest neighborhood for the immigrant to choose their future residence. It's provide a fundamental and instructional suggestion for the immigrants.
 

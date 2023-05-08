@@ -1,4 +1,23 @@
-body{
-    background-color: royalblue;
-}
-
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  
+  .text-container {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .image-container {
+    width: 30%;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+  

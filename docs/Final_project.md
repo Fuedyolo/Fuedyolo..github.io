@@ -3,15 +3,7 @@ layout: page
 title: Final_project
 permalink: /Final_project/
 ---
-
-<style>
-.vscroll-plot {
-    width: 1000px;
-    height: 200px;
-    overflow-y: scroll;
-    overflow-x: hidden;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="style.css">
 
 
  <h1 style="text-align: center;">New york vehicle crashes</h1>
@@ -23,8 +15,5 @@ permalink: /Final_project/
  The data is gathered from NYC open data platform and is based on the first responders initial gathering of data. We supplied that data with weather data from the local stations for each day represented in the dataset, and with information about the roads on which the crashes occurs. 
 
 
-<div class="vscroll-plot">
-![Book logo](/docs/assets/timeseries.png)
-</div>
 
 

@@ -3,7 +3,7 @@ layout: page
 title: Final_project
 permalink: /Final_project/
 ---
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
 <div class=container>
 

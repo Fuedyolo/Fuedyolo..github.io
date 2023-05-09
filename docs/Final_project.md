@@ -14,7 +14,13 @@ permalink: /Final_project/
  The data is gathered from NYC open data platform and is based on the first responders initial gathering of data. We supplied that data with weather data from the local stations for each day represented in the dataset, and with information about the road lengths on which the crashes occurs. First, a plot of the crashes over the years is shown.
 
 
-![Book logo](/docs/assets/final/years.png)
+![Book logo](/docs/assets/final/years.png){: style="float: left"}
 
-It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in april, and then corona hit in march 2020, leading to much fewer crashes, which has continued in the previous two years. The interessting part comes when we look at the distribution of crashes in the different areas of Manhatten. 
+It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in april, and then corona hit in march 2020, leading to much fewer crashes, which has continued in the previous two years. The interessting part comes when we look at the distribution of reasons for crashes.
 
+<div style="display: flex;">
+  <img src="/docs/assets/final/years.png" alt="Image description" style="width: 50%;">
+  <div style="margin-left: 20px;">
+    <p>it does not work.</p>
+  </div>
+</div>

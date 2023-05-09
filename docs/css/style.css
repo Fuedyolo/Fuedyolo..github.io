@@ -5,18 +5,15 @@
     background-color: aquamarine;
   }
 
-  .h1 {
+  .h1, h3 {
     text-align: center;
+    color: blue
   }
   
-  .h3 {
-    text-align: center;
-  }
-
   .text-container {
     flex: 1;
     margin-right: 20px;
-    font-style: italic;
+    font-style: bold;
   }
   
   .image-container {

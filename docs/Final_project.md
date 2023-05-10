@@ -31,6 +31,10 @@ permalink: /Final_project/
 
 <font size ="5" >The plot below shows the distribution for the top 14 factors over the years from 2013-2022. It is clear that some of the categories were removed over the years. We can see that turning improperly went down, and that all factors took a natural big drop during the covid years, with the exception of drivers disregarding traffic control, that seems to be steady throughout the years.  </font> 
 
+<p align="center">
+  <img src="/docs/assets/final/factoryear.png" alt="Image description" />
+</p>
+
 ![Image description](/docs/assets/final/factoryear.png) 
 <font size ="5" >
 The next plot shows the distribution for each of the focus factors throughout the 168 hours of the week. The most interessting takeaway from the plots are that the traffic control disregarded seems to be high on all hours of the week, meaning it is more comon for that to occur during the night than most of the other categories. We can also see that passing too closely goes down in the weekend, which might be because people are not as much in a hurry as they are on weekdays. Almost all of the categories peak on friday afternoon, probably because people want to go home. 

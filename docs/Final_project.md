@@ -69,7 +69,7 @@ A machine learning model was created, hoping that we could try to predict wheter
 | --- | --- |
 | <font size="5"> We decided to go with a randomforrestclassifier, and a variable indicating if a person was either injured or killed in the crash was added. The resulting model had an accuracy of 86%, and the confusion matrix shows the results that we had on the test set, which was 30% of the data. Not an impressive model result, but it was able to classify some of the crashes that had injuries or fatalities the right way. </font>  | ![Image description](/docs/assets/final/confusion.png) | 
 
-
-Lastly we also wanted to include how the Alchohol involvement factor looked over the years, surprisingly there are not many records in the dataset where alcohol was the leading factor. The animation below shows the location of the vehicle crashes over the years on Manhatten. 
+<font size="5"> 
+Lastly we also wanted to include how the Alchohol involvement factor looked over the years, surprisingly there are not many records in the dataset where alcohol was the leading factor. The animation below shows the location of the vehicle crashes over the years on Manhatten. </font> 
 
 {% include vehicle_crashes_map.html %} 

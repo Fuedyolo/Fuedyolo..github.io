@@ -60,14 +60,14 @@ Next we want to explore the distribution of crashes troughout the different area
 
 
 <font size="5">
-A machine learning model was created, hoping that we could try to predict wheter or not a person was injured or killed in a crash. Application for this could be a warning system for the nearest emergency room, as they would be better prepared when an accident happens in their area. The first step was to examine the correlation between the variables in the dataset, and the result can be seen in the correlation matrix below. The variable does not correlate much, so the hopes for the model wasn't much. 
+A machine learning model was created, hoping that we could try to predict wheter or not a person was injured or killed in a crash. Application for this could be a warning system for the nearest emergency room, as they would be better prepared when an accident happens in their area. The first step was to examine the correlation between the variables in the dataset, and the result can be seen in the correlation matrix below. The variable does not correlate much, so the hopes for the model wasn't much. We decided to go with a randomforrestclassifier, and a variable indicating if a person was either injured or killed in the crash was added. The resulting model had an accuracy of 86%, and the confusion matrix shows the results that we had on the test set, which was 30% of the data. Not an impressive model result, but it was able to classify some of the crashes that had injuries or fatalities the right way.
 </font> 
 
-![Image description](/docs/assets/final/correlation.png)
+
 
 |  |  |
 | --- | --- |
-| <font size="5"> We decided to go with a randomforrestclassifier, and a variable indicating if a person was either injured or killed in the crash was added. The resulting model had an accuracy of 86%, and the confusion matrix shows the results that we had on the test set, which was 30% of the data. Not an impressive model result, but it was able to classify some of the crashes that had injuries or fatalities the right way. </font>  | ![Image description](/docs/assets/final/confusion.png) | 
+| ![Image description](/docs/assets/final/correlation.png)  | ![Image description](/docs/assets/final/confusion.png) | 
 
 <font size="5"> 
 Lastly we also wanted to include how the Alchohol involvement factor looked over the years, surprisingly there are not many records in the dataset where alcohol was the leading factor. The animation below shows the location of the vehicle crashes over the years on Manhatten. </font> 

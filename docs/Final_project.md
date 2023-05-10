@@ -35,23 +35,28 @@ permalink: /Final_project/
   <img src="/docs/assets/final/factoryear.png" alt="Image description" />
 </p>
 
-![Image description](/docs/assets/final/factoryear.png) 
 <font size ="5" >
 The next plot shows the distribution for each of the focus factors throughout the 168 hours of the week. The most interessting takeaway from the plots are that the traffic control disregarded seems to be high on all hours of the week, meaning it is more comon for that to occur during the night than most of the other categories. We can also see that passing too closely goes down in the weekend, which might be because people are not as much in a hurry as they are on weekdays. Almost all of the categories peak on friday afternoon, probably because people want to go home. 
 </font> 
 
+<p align="center">
+  <img src="/docs/assets/final/168hours.png" alt="Image description" />
+</p>
 
-![Image description](/docs/assets/final/168hours.png) 
 <font size ="5" >
 Next we want to explore the distribution of crashes troughout the different areas of manhatten for each factor. The plot shows that particularily the neighbourhood West Village, alot of the categories peak. This might be due to to the fact that the other areas sets the factor as unspecified, or simply that the area needs to apply changes for it to be more safe. In general there are less counts of crashes for almost all categories in the north of Manhatten. 
 </font> 
 
 ![Image description](/docs/assets/final/maps.png) 
 
+<font size="5">We wanted to look how rain affects the number of casualties. So this plot shows the crashes with casualties when it rains as the purple heatmap, and the red dots as the crashes with casualties when it does not rain
+
+</font> 
+
+{% include rainmap.html %} 
 
 
-{% include rainmap.html %} <font size="5">We wanted to look how rain affects the number of casualties. So this plot shows the crashes with casualties when it rains as the purple heatmap, and the red dots as the crashes with casualties when it does not rain
-
+<font size="5">
 A machine learning model was created, hoping that we could try to predict wheter or not a person was injured or killed in a crash. Application for this could be a warning system for the nearest emergency room, as they would be better prepared when an accident happens in their area. The first step was to examine the correlation between the variables in the dataset, and the result can be seen in the correlation matrix below. The variable does not correlate much, so the hopes for the model wasn't much. 
 </font> 
 

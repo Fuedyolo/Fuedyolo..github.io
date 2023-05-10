@@ -45,7 +45,8 @@ Next we want to explore the distribution of crashes troughout the different area
 
 
 
-
+|  |  |
+| --- | --- |
 | {% include rainmap.html %} | <font size="5">We wanted to look how rain affects the number of casualties. So this plot shows the crashes with casualties when it rains as the purple heatmap, and the red dots as the crashes with casualties when it does not rain</font> |
 
 

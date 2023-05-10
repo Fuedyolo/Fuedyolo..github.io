@@ -8,6 +8,7 @@ permalink: /Final_project/
   
 # New york vehicle crashes
 ## A visualization story
+
 </div>
 
 
@@ -20,4 +21,9 @@ permalink: /Final_project/
 
 |  |  |
 | --- | --- |
-| ![Image description](/docs/assets/final/years.png) | It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in april, and then corona hit in march 2020, leading to much fewer crashes, which has continued in the previous two years. The interessting part comes when we look at the distribution of reasons for crashes. here. |
+| ![Image description](/docs/assets/final/years.png) | It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in april, and then corona hit in march 2020, leading to much fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes. |
+
+
+|  |  |
+| --- | --- |
+|It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in april, and then corona hit in march 2020, leading to much fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes.  | ![Image description](/docs/assets/final/factor.png) |

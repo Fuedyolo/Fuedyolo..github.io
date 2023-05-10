@@ -19,7 +19,7 @@ permalink: /Final_project/
 
 |  |  |
 | --- | --- |
-| ![Image description](/docs/assets/final/years.png) | <font size="4">It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in April, and then COVID-19 hit in March 2020, leading to many fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes.</font> |
+| ![Image description](/docs/assets/final/years.png) | <font size="12">It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in April, and then COVID-19 hit in March 2020, leading to many fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes.</font> |
 
 
 

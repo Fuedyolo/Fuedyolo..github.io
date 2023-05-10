@@ -19,7 +19,7 @@ permalink: /Final_project/
 
 |  |  |
 | --- | --- |
-| ![Image description](/docs/assets/final/years.png) | <font size="12">It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in April, and then COVID-19 hit in March 2020, leading to many fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes.</font> |
+| ![Image description](/docs/assets/final/years.png) | <font size="8">It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in April, and then COVID-19 hit in March 2020, leading to many fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes.</font> |
 
 
 
@@ -27,8 +27,8 @@ permalink: /Final_project/
 
 |  |  |
 | --- | --- |
-|The plots shows that most of the crashes are labeled as unspecified, therefore this category will be removed to get a clearer view of the distribution of the crashes that actually has a category.  | ![Image description](/docs/assets/final/factor.png) |
+|<font size ="8" >The plots shows that most of the crashes are labeled as unspecified, therefore this category will be removed to get a clearer view of the distribution of the crashes that actually has a category. </font> | ![Image description](/docs/assets/final/factor.png) |
 
-The plot below shows the distribution for the top 14 factors over the years from 2013-2022. It is clear that some of the categories were removed over the years. We can see that turning improperly went down, and that all factors took a natural big drop during the covid years, with the exception of drivers disregarding traffic control, that seems to be steady throughout the years. 
+<font size ="8" >The plot below shows the distribution for the top 14 factors over the years from 2013-2022. It is clear that some of the categories were removed over the years. We can see that turning improperly went down, and that all factors took a natural big drop during the covid years, with the exception of drivers disregarding traffic control, that seems to be steady throughout the years.  </font> 
 
 ![Image description](/docs/assets/final/factoryear.png) 

@@ -74,3 +74,7 @@ A machine learning model was created, hoping that we could try to predict wheter
 |  |  |
 | --- | --- |
 | ![Image description](/docs/assets/final/years.png) | <font size="5">It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in April, and then COVID-19 hit in March 2020, leading to many fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes.</font> |
+
+Lastly we also wanted to include how the Alchohol involvement factor looked over the years, surprisingly there are not many records in the dataset where alcohol was the leading factor. The animation below shows the location of the vehicle crashes over the years on Manhatten. 
+
+{% include vehicle_crashes_map.html %} 

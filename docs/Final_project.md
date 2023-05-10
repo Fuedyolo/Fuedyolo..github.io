@@ -69,6 +69,6 @@ A machine learning model was created, hoping that we could try to predict wheter
 ![Image description](/docs/assets/final/confusion.png) 
 
 <font size="5"> 
-Lastly we also wanted to include how the Alchohol involvement factor looked over the years, surprisingly there are not many records in the dataset where alcohol was the leading factor. The animation below shows the location of the vehicle crashes over the years on Manhatten. There doesn't seem to be a specific place where the alchohol incidents occur, but then again there are over 2000 bars in manhatten, so that would also be surprising. </font> 
+Lastly we also wanted to include how the Alchohol involvement factor looked over the years, surprisingly there are not many records in the dataset where alcohol was the leading factor. The animation below shows the location of the vehicle crashes over the years on Manhatten. There doesn't seem to be a specific place where the alchohol incidents occur, but as there are over 2000 bars in manhatten,  that would also be surprising. </font> 
 
 {% include vehicle_crashes_map.html %} 

@@ -42,13 +42,22 @@ The next plot shows the distribution for each of the focus factors throughout th
 
 
 ![Image description](/docs/assets/final/168hours.png) 
-
+<font size ="5" >
 Next we want to explore the distribution of crashes troughout the different areas of manhatten for each factor. The plot shows that particularily the neighbourhood West Village, alot of the categories peak. This might be due to to the fact that the other areas sets the factor as unspecified, or simply that the area needs to apply changes for it to be more safe. In general there are less counts of crashes for almost all categories in the north of Manhatten. 
+</font> 
 
 ![Image description](/docs/assets/final/maps.png) 
 
 
 
-{% include rainmap.html %} <font size="5">We wanted to look how rain affects the number of casualties. So this plot shows the crashes with casualties when it rains as the purple heatmap, and the red dots as the crashes with casualties when it does not rain</font> 
+{% include rainmap.html %} <font size="5">We wanted to look how rain affects the number of casualties. So this plot shows the crashes with casualties when it rains as the purple heatmap, and the red dots as the crashes with casualties when it does not rain
 
+A machine learning model was created, hoping that we could try to predict wheter or not a person was injured or killed in a crash. Application for this could be a warning system for the nearest emergency room, as they would be better prepared when an accident happens in their area. The first step was to examine the correlation between the variables in the dataset, and the result can be seen in the correlation matrix below. The variable does not correlate much, so the hopes for the model wasn't much. 
+</font> 
 
+![Image description](/docs/assets/final/correlation.png)
+
+|  |  |
+| --- | --- |
+| ![Image description](/docs/assets/final/confusion.png) | <font size="5"> We decided to go with a randomforrestclassifier, and a variable indicating if a person was either injured or killed in the crash was added. The resulting model had an accuracy of 86%, and the confusion matrix shows the results that we had on the test set, which was 30% of the data. Not an impressive model result, but it was able to classify some of the crashes that had injuries or fatalities the right way. |
+</font> 

@@ -6,10 +6,9 @@ permalink: /Final_project/
 
 <div align="center">
   
-<h1>New york vehicle crashes</h1>
+<h1 style="font-size: 36px; font-weight: bold;">New york vehicle crashes</h1>
 
-<h3> A visualization story </h3>
-
+<h3 style="font-size: 24px; font-weight: bold;">A visualization story</h3>
 </div>
 
 
@@ -20,7 +19,8 @@ permalink: /Final_project/
 
 |  |  |
 | --- | --- |
-| ![Image description](/docs/assets/final/years.png) | It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in april, and then corona hit in march 2020, leading to much fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes. |
+| ![Image description](/docs/assets/final/years.png) | <span style="font-size: 16px;">It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in april, and then corona hit in march 2020, leading to much fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes.</span> |
+
 
 
 |  |  |

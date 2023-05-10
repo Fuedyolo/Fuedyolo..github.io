@@ -47,7 +47,10 @@ The next plot shows the distribution for each of the focus factors throughout th
 Next we want to explore the distribution of crashes troughout the different areas of manhatten for each factor. The plot shows that particularily the neighbourhood West Village, alot of the categories peak. This might be due to to the fact that the other areas sets the factor as unspecified, or simply that the area needs to apply changes for it to be more safe. In general there are less counts of crashes for almost all categories in the north of Manhatten. 
 </font> 
 
-![Image description](/docs/assets/final/maps.png) 
+<p align="center">
+  <img src="/docs/assets/final/maps.png" alt="Image description" />
+</p>
+
 
 <font size="5">We wanted to look how rain affects the number of casualties. So this plot shows the crashes with casualties when it rains as the purple heatmap, and the red dots as the crashes with casualties when it does not rain
 

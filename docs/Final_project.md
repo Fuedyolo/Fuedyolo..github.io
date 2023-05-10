@@ -16,11 +16,11 @@ permalink: /Final_project/
 
  The data is gathered from NYC open data platform and is based on the first responders initial gathering of data. We supplied that data with weather data from the local stations for each day represented in the dataset, and with information about the road lengths on which the crashes occurs. First, a plot of the crashes over the years is shown.
 
-
+<div>
 |  |  |
 | --- | --- |
 | ![Image description](/docs/assets/final/years.png) | <h6 style="font-size: 26px;">It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in april, and then corona hit in march 2020, leading to much fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes.</h6> |
-
+</div>
 
 
 |  |  |

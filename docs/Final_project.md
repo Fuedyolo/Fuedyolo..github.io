@@ -67,13 +67,8 @@ A machine learning model was created, hoping that we could try to predict wheter
 
 |  |  |
 | --- | --- |
-| ![Image description](/docs/assets/final/confusion.png) | <font size="5"> We decided to go with a randomforrestclassifier, and a variable indicating if a person was either injured or killed in the crash was added. The resulting model had an accuracy of 86%, and the confusion matrix shows the results that we had on the test set, which was 30% of the data. Not an impressive model result, but it was able to classify some of the crashes that had injuries or fatalities the right way. 
-</font> | 
+| <font size="5"> We decided to go with a randomforrestclassifier, and a variable indicating if a person was either injured or killed in the crash was added. The resulting model had an accuracy of 86%, and the confusion matrix shows the results that we had on the test set, which was 30% of the data. Not an impressive model result, but it was able to classify some of the crashes that had injuries or fatalities the right way. </font>  | ![Image description](/docs/assets/final/confusion.png) | 
 
-
-|  |  |
-| --- | --- |
-| ![Image description](/docs/assets/final/years.png) | <font size="5">It is easy to see that the crashes are more or less constant over the years, with two exceptions. In 2016 the crashes dropped significantly in April, and then COVID-19 hit in March 2020, leading to many fewer crashes, which has continued in the previous two years. The next thing to look for is the distribution of reasons for crashes.</font> |
 
 Lastly we also wanted to include how the Alchohol involvement factor looked over the years, surprisingly there are not many records in the dataset where alcohol was the leading factor. The animation below shows the location of the vehicle crashes over the years on Manhatten. 
 
